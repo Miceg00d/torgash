@@ -1,0 +1,9 @@
+name: torgash
+version: '1.0'
+main: me.micegood.torgash.Torgash
+api-version: '1.18'
+authors: [ mice ]
+
+commands:
+  spawnVillager:
+    description: ВАЛОДЯ
